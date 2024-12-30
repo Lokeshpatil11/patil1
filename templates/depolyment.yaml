@@ -16,5 +16,5 @@ spec:
         - name: container5
           image: patillokesh/mywebsite3
           ports:
-            - containerPort: 80
+            - containerPort: 4000
               protocol: TCP
